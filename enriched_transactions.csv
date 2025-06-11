@@ -1,0 +1,7 @@
+transaction_id,description,vendor,amount,timestamp,classification_category,reason,confidence_score,source
+TXN001,STARBUCKS STORE #1234 SEATTLE WA,Starbucks,-5.75,2024-01-15 08:30:00,Food & Dining,Matched keywords: starbucks,0.15,gemini
+TXN002,UBER TRIP 12/14 SAN FRANCISCO CA,Uber,-18.5,2024-01-15 14:22:00,Transportation,Matched keywords: uber,0.15,gemini
+TXN003,AMZN MKTP US PURCHASE,Amazon,-34.99,2024-01-15 16:45:00,Shopping,"Matched keywords: amazon, purchase",0.3,gemini
+TXN004,PACIFIC GAS ELECTRIC UTILITY BILL,PG&E,-89.23,2024-01-15 09:00:00,Utilities,"Matched keywords: electric, gas, utility",0.6,gemini
+TXN005,WHOLE FOODS MARKET ORGANIC GROCERIES,Whole Foods,-67.45,2024-01-15 18:30:00,Groceries,"Matched keywords: market, whole foods",0.3,gemini
+TXN006,UNKNOWN MERCHANT PURCHASE,,-25.0,2024-01-15 12:00:00,Shopping,Matched keywords: purchase,0.15,gemini

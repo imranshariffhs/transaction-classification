@@ -1,0 +1,27 @@
+S.No,Category,Entity/Keyword,Type
+1,Credit Card Payment,HDFC Bank Credit Card,Outflow
+2,Loan Repayment,ICICI Loan EMI,Outflow
+3,Credit Card Payment,Amazon Pay ICICI,Outflow
+4,Insurance,SBI Life Insurance,Outflow
+5,Salary Credit,HDFC Salary,Inflow
+6,Fund Transfer,IMPS Transfer,Inflow/Outflow
+7,Fund Transfer,NEFT Transfer,Inflow/Outflow
+8,UPI Transaction,UPI Payment,Inflow/Outflow
+9,Loan Repayment,Bajaj Finserv EMI,Outflow
+10,Utility Payment,EB Bill TNEB,Outflow
+11,Credit Card Payment,Axis Bank Credit Card,Outflow
+12,Insurance,LIC Premium,Outflow
+13,Interest Credit,Interest Cr,Inflow
+14,Investment,Mutual Fund SIP,Outflow
+15,Wallet Recharge,Paytm Wallet,Outflow
+16,UPI Transaction,Google Pay,Inflow/Outflow
+17,UPI Transaction,PhonePe,Inflow/Outflow
+18,Stock Investment,Zerodha,Outflow
+19,Mutual Fund,CAMS,Outflow
+20,Utility Payment,Airtel Recharge,Outflow
+21,Credit Card Payment,Flipkart Axis Card,Outflow
+22,Refund,Credit Card Refund,Inflow
+23,Transport,Uber India,Outflow
+24,Transport,Ola Cabs,Outflow
+25,Food Delivery,Swiggy,Outflow
+26,ICICI,ICICI Personal Loan,Inflow/Outflow

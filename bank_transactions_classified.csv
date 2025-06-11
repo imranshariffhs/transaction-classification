@@ -1,0 +1,21 @@
+TransactionID,Description,Vendor,classification_category,reason_source,confidence_score
+T781784,UPI Payment to Zomato,Zomato,,,0.0
+T781785,EMI payment - ICICI Personal Loan,ICICI Personal Loan,ICICI Loan EMI,master_vector,0.7745476499469502
+T781786,UPI Payment to Zomato,Zomato,,,0.0
+T781787,EMI payment - ICICI Personal Loan,ICICI Personal Loan,ICICI Loan EMI,master_vector,0.7745476499469502
+T781788,EMI payment - ICICI Personal Loan,ICICI Personal Loan,ICICI Loan EMI,master_vector,0.7745476499469502
+T781789,UPI Payment to Zomato,Zomato,,,0.0
+T781790,Interest credited on SB account,Interest,,,0.0
+T781791,Received from Mahesh via UPI,Received,,,0.0
+T781792,Interest credited on SB account,Interest,,,0.0
+T781793,EMI payment - ICICI Personal Loan,ICICI Personal Loan,ICICI Loan EMI,master_vector,0.7745476499469502
+T781794,UPI Payment to Zomato,Zomato,,,0.0
+T781795,UPI Payment to Zomato,Zomato,,,0.0
+T781796,Received from Mahesh via UPI,Received,,,0.0
+T781797,Received from Mahesh via UPI,Received,,,0.0
+T781798,EMI payment - ICICI Personal Loan,ICICI Personal Loan,ICICI Loan EMI,master_vector,0.7745476499469502
+T781799,UPI Payment to Zomato,Zomato,,,0.0
+T781800,EMI payment - ICICI Personal Loan,ICICI Personal Loan,ICICI Loan EMI,master_vector,0.7745476499469502
+T781801,Interest credited on SB account,Interest,,,0.0
+T781802,EMI payment - ICICI Personal Loan,ICICI Personal Loan,ICICI Loan EMI,master_vector,0.7745476499469502
+T781803,EMI payment - ICICI Personal Loan,ICICI Personal Loan,ICICI Loan EMI,master_vector,0.7745476499469502

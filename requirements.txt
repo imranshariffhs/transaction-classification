@@ -1,0 +1,26 @@
+# Core LangChain & Google Generative AI integrations
+langchain
+langchain-google-genai
+langchain-community
+langchain_postgres
+
+
+# Qdrant support
+qdrant-client
+
+# Typesense support
+typesense
+
+# DuckDuckGo search integration
+duckduckgo-search
+
+# Data handling
+pandas
+openpyxl
+
+# Env variable handling
+python-dotenv
+
+# Parser
+lark
+
