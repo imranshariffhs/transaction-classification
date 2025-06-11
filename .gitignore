@@ -1,0 +1,12 @@
+.env.txt
+.env.txt
+.env.txt
+*.xlsx
+old-code/
+.ipynb_checkpoints/
+pgvector/
+__pycache__/
+classified_transactions.csv
+GENAI - Copy.ipynb
+GENAI - Copy.ipynb
+GENAI - Copy.ipynb
